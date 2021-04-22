@@ -1,0 +1,58 @@
+body{
+    background-image: url(https://store-images.s-microsoft.com/image/apps.23032.13608622719434797.30372fd8-b4bd-41c0-beea-1c2a61e087c1.a8347bb5-9305-48e8-b668-08df54c5a91a?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg);
+    background-repeat:no-repeat;
+    height: 100vh;
+    background-size: cover;
+    
+}
+
+header{
+    text-align:center;
+    font-size: 25px;
+    background-color: rgb(109, 109, 219);
+    
+}
+#search-box{
+    margin: 30px;
+    font-size: 35px;
+}
+.box{
+    margin-left: 30px;
+}
+.button{
+    margin-left: 80px;
+    
+}
+#day{
+    margin: 20px;
+    font-size: 35px;
+    
+}
+.weth{
+    margin-top:25px ;
+    background-color: rgb(156, 215, 238);
+    
+    border-style:none;
+    border-radius: 2px;
+}
+.one{
+    background-color: rgb(156, 215, 238);
+    margin: 3px;
+}
+.two{
+    background-color: rgb(156, 215, 238);
+    margin: 3px;
+}
+.three{
+    background-color: rgb(156, 215, 238);
+    margin: 3px;
+}
+.four{
+    background-color: rgb(156, 215, 238);
+    margin: 3px;
+}
+.five{
+    background-color: rgb(156, 215, 238);
+    margin: 3px;
+}
+
